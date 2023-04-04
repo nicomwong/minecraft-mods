@@ -1,2 +1,3 @@
-# minecraft-mods
-Mods for a minecraft server
+# Minecraft Server Mods
+
+- [Simply Caterpillar](https://www.minecraftmods.com/simply-caterpillar/)
